@@ -1,0 +1,28 @@
+echo "REMINDER: Patching this ipa to show up in File Manager can make it crash."
+echo ""
+echo ""
+echo "Path to the ipa is: $1"
+mkdir Tempt
+cp $1 Tempt
+cd Tempt/
+unzip $1
+cd Payload/
+cd *
+defaults write $PWD/Info UIFileSharingEnabled YES
+echo ""
+echo "Worked"
+defaults write $PWD/Info LSSupportsOpeningDocumentsInPlace YES
+echo ""
+echo "Patches Applied"
+cd ..
+cd ..
+zip -r Payload.zip Payload
+mv Payload.zip patched.ipa
+echo "Repacked application"
+echo ""
+echo ""
+echo "Cleaning up"
+rm -rf Payload
+cd ..
+open `pwd`
+cd ..
