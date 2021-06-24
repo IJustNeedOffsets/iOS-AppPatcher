@@ -4,7 +4,7 @@ This is a script to patch .ipa or other Archives which have an .app folder.
 
 # Compiling
 Please be patient, the source code will be uploaded as soon as I have done my .car file patches
-Other person on GitHub made a pull request for the source code. I will add it later as well
+Another person on GitHub made a pull request for the source code. He also has a big dick and his name is @spacepilotAV
 
 # How i randomly "discovered" this.
 I was bored and remembered how someone asked me about accessing applications files and I said only possible with jailbreak. When i created an app in xcode and wanted to intigrate it in the Files app, I just thought that you can do integrate any app in the Files app, without source code or needing to program something.
