@@ -21,7 +21,7 @@ Patching an .ipa file to show up in default ios files:
 
 Merging iPA´s
 Before merging ipa´s, make a folder and paste all iPA´s you want to be merged in that folder.
-"./AppPatcher /Drag/Folder/With/Multiple/iPA´s/Here/"
+"./AppPatcher -b /Drag/Folder/With/Multiple/iPA´s/Here/"
 After you installed a merged ipa, the apps will not show up on your home screen, reboot or respring your idevice to let them appear.
 
 # Installing
