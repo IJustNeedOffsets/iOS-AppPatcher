@@ -3,23 +3,26 @@ This is a script to patch .ipa or other Archives which have an .app folder.
 
 
 # Compiling
-Please be patient, the source code will be uploaded as soon as I have done my .car file patches
-Another person on GitHub made a pull request for the source code. His name is @spacepilotAV
-Need to get better encryption tools
+You don´t need to compile anything, it´s just a shell script. (This will maybe chnage in future)
 
 # How i randomly "discovered" this.
 I was bored and remembered how someone asked me about accessing applications files and I said only possible with jailbreak. When i created an app in xcode and wanted to intigrate it in the Files app, I just thought that you can do integrate any app in the Files app, without source code or needing to program something.
 
 # Usage
-This script simply patches the app to have its /Documents/ folder accessible in the default file manager, without jailbreak!
+AppPatcher can apply patches to an .ipa file to be accessible from the default iOS files app without a jailbreak.
+AppPatcher can merge multiple .ipa files to one iPA file. (Make sure to respring or reboot after installing,)
 
-To patch an .ipa just open Terminal and cd in the AppPatcher folder. 
-"cd /Drag/The/AppPatcher/Folder/here"
-Than we need to chmod the executable
+To use this script, run the commands below first:
+"cd /DRAG/THE/APP/PATCHER/FOLDER/HERE"
 "chmod +x AppPatcher"
-To apply the patches on the ipa file type:
-"./AppPatcher /DRAG/THE/IPA/YOU/WANT/TO/PATCH/HERE"
-After it patched the ipa successful it should open a new finder window. In there go in the Tempt/ and there you have the orginal .ipa and the patched.ipa
+
+Patching an .ipa file to show up in default ios files:
+"./AppPatcher /iPA/FILE/HERE/DRAG"
+
+Merging iPA´s
+Before merging ipa´s, make a folder and paste all iPA´s you want to be merged in that folder.
+"./AppPatcher /Drag/Folder/With/Multiple/iPA´s/Here/"
+After you installed a merged ipa, the apps will not show up on your home screen, reboot or respring your idevice to let them appear.
 
 # Installing
 
