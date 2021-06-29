@@ -31,3 +31,31 @@ If you have a jailbreak, the next updates will add an option to install the ipa 
 But i think its not making sense to install this patched ipa with Appsync since its only going to work in jailbroken mode than, while you could use Filza to access the Application.
 #IMPORTANT
 Make sure the .ipa file doesn´t contain any spaces! (If the ipa is named "Example Patch" rename it to "ExamplePatch")
+
+# Coming Soon
+-UI version when AppPatcher is out of Beta (MacOS and iOS/iPados)
+-Hide apps from SpringBoard
+-Shoe hidden apps on SpringBoard
+-Modify Assets
+-Change display name of Application
+-Add or Change Url scheme (for example add a url scheme like OpenFromAnyBrowser:// to open the specific application)
+-Convert iPA to Deb or Deb to iPA. 
+-Something really big to add an installation path to an Application
+
+# Improvements
+Please feel free to make Pull Request and forks of AppPatcher
+I really like to see people are interested in my work
+
+# Crediting
+If you want to include AppPatcher in your program/Tool:
+Make your tool on GitHub (closed or open sourced) and add link to my AppPatcher repo instead of including the script.
+If you want to make changes to AppPatcher and use it in your program, please ask me on Twitter or Reddit first. (Links below)
+If you make a fork of this repo, you can change anything you want without crediting
+Make pull request of your modified AppPatcher version. (I'll credit you if i approved the request)
+For any other questions feel free to contact me on Twitter or Reddit:
+Twitter: https://twitter.com/IUnl0ck1?s=09     (you will likely get an answer faster on Twitter)
+Reddit:  https://www.reddit.com/u/Administrative-Fan4?utm_medium=android_app&utm_source=share
+
+# Credits
+Me [https://twitter.com/IUnl0ck1?s=09]
+To get credited make any changes/improvements or share knowledge which is useful for AppPatcher. (About iOS in gernal)
