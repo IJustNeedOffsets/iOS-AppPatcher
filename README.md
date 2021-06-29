@@ -27,7 +27,7 @@ After you installed a merged ipa, the apps will not show up on your home screen,
 # Installing
 
 To install the ipa, simply sign it with whatever tool you want. (I recommend to use AltStore or Signulous, both working perfectly for me)
-If you have a jailbreak, the next script will be able to install the ipa by using the tweak appinst from karens repo. (https://cydia.akemi.ai/)
+If you have a jailbreak, the next updates will add an option to install the ipa by using the tweak appinst from karens repo. (https://cydia.akemi.ai/)
 But i think its not making sense to install this patched ipa with Appsync since its only going to work in jailbroken mode than, while you could use Filza to access the Application.
 #IMPORTANT
 Make sure the .ipa file doesn´t contain any spaces! (If the ipa is named "Example Patch" rename it to "ExamplePatch")
