@@ -58,4 +58,4 @@ Reddit:  https://www.reddit.com/u/Administrative-Fan4?utm_medium=android_app&utm
 
 # Credits
 Me [https://twitter.com/IUnl0ck1?s=09]
-To get credited make any changes/improvements or share knowledge which is useful for AppPatcher. (About iOS in gernal)
+To get a credit/special thanks make any changes/improvements or share knowledge which is useful for AppPatcher. (About iOS in gernal)
