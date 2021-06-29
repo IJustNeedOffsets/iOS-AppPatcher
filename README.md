@@ -35,7 +35,7 @@ Make sure the .ipa file doesn´t contain any spaces! (If the ipa is named "Examp
 # Coming Soon
 -UI version when AppPatcher is out of Beta (MacOS and iOS/iPados)
 -Hide apps from SpringBoard
--Shoe hidden apps on SpringBoard
+-Show hidden apps on SpringBoard
 -Modify Assets
 -Change display name of Application
 -Add or Change Url scheme (for example add a url scheme like OpenFromAnyBrowser:// to open the specific application)
