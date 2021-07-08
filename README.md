@@ -1,3 +1,7 @@
+# UPDATES
+I have holidays currently and likely not gonna update this in the next 6 Weeks. If i do, it may contains some issues. (I will fix them all when school started again.)
+
+
 # iOS-AppPatcher
 This is a script to patch .ipa or other Archives which have an .app folder.
 
